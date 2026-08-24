@@ -1,0 +1,12 @@
+{
+  "config_hash": "86098a1af53fbc3a89b997a91d8e5c438791bc47928d4f17499737d1f83d566c",
+  "benchmark": "pubmedqa",
+  "split": "development",
+  "seed": 2026,
+  "accuracy": 0.72,
+  "input_tokens": 208198,
+  "output_tokens": 170538,
+  "latency_seconds": 2608.6506801182404,
+  "status": "success",
+  "errors": []
+}

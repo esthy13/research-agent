@@ -1,0 +1,4 @@
+condition,num_records,best_accuracy,mean_accuracy,best_config_hash,best_experiment_id,best_reasoning_mode,best_agent_count,best_aggregation
+full_memory,10,0.73,0.579,13a568a5db2139bb3b19d7635dca762e2e23cb95a12f4b3d5abf55b0aa176151,987d4722-b67b-44b4-aaef-8b51555d5905,chain_of_thought,1,single_answer
+memory_without_augmentation,10,0.73,0.569,adbc68f4d0a4e889b58fa2a7a8b3c409b483ff9f911e850d580aa90358c1572a,bc6d4d10-0acb-40f6-a8f8-a79227fc2757,chain_of_thought,2,final_revision
+no_memory,10,0.73,0.687,d3dd7c3ca72d9093d6d07693286862bb0814b35fda2e431b518763e3df66d3e9,9a8ab7bf-b7f8-4b65-8cbc-c96abe613887,chain_of_thought,1,single_answer

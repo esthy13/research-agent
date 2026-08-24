@@ -1,0 +1,14 @@
+{
+  "config_hash": "22f94ef82139a4d46136a268c5c975aa1881c69a5ee56167cf6df69bff702ab5",
+  "benchmark": "pubmedqa",
+  "split": "test",
+  "seed": 2026,
+  "accuracy": 0.668,
+  "input_tokens": 217464,
+  "output_tokens": 2500,
+  "latency_seconds": 299.63268347410485,
+  "status": "success",
+  "errors": [
+    "391: model did not produce an extractable answer"
+  ]
+}

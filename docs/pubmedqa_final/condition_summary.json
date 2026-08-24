@@ -1,0 +1,35 @@
+[
+  {
+    "condition": "full_memory",
+    "num_records": 10,
+    "best_accuracy": 0.73,
+    "mean_accuracy": 0.579,
+    "best_config_hash": "13a568a5db2139bb3b19d7635dca762e2e23cb95a12f4b3d5abf55b0aa176151",
+    "best_experiment_id": "987d4722-b67b-44b4-aaef-8b51555d5905",
+    "best_reasoning_mode": "chain_of_thought",
+    "best_agent_count": 1,
+    "best_aggregation": "single_answer"
+  },
+  {
+    "condition": "memory_without_augmentation",
+    "num_records": 10,
+    "best_accuracy": 0.73,
+    "mean_accuracy": 0.569,
+    "best_config_hash": "adbc68f4d0a4e889b58fa2a7a8b3c409b483ff9f911e850d580aa90358c1572a",
+    "best_experiment_id": "bc6d4d10-0acb-40f6-a8f8-a79227fc2757",
+    "best_reasoning_mode": "chain_of_thought",
+    "best_agent_count": 2,
+    "best_aggregation": "final_revision"
+  },
+  {
+    "condition": "no_memory",
+    "num_records": 10,
+    "best_accuracy": 0.73,
+    "mean_accuracy": 0.687,
+    "best_config_hash": "d3dd7c3ca72d9093d6d07693286862bb0814b35fda2e431b518763e3df66d3e9",
+    "best_experiment_id": "9a8ab7bf-b7f8-4b65-8cbc-c96abe613887",
+    "best_reasoning_mode": "chain_of_thought",
+    "best_agent_count": 1,
+    "best_aggregation": "single_answer"
+  }
+]

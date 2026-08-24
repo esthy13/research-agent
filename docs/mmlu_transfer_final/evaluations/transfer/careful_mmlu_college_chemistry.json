@@ -1,0 +1,27 @@
+{
+  "config_hash": "22f94ef82139a4d46136a268c5c975aa1881c69a5ee56167cf6df69bff702ab5",
+  "benchmark": "mmlu_college_chemistry",
+  "split": "transfer",
+  "seed": 2026,
+  "accuracy": 0.6,
+  "input_tokens": 20527,
+  "output_tokens": 33240,
+  "latency_seconds": 505.3750513740815,
+  "status": "success",
+  "errors": [
+    "10: model did not produce an extractable answer",
+    "36: model did not produce an extractable answer",
+    "57: model did not produce an extractable answer",
+    "98: model did not produce an extractable answer",
+    "11: model did not produce an extractable answer",
+    "85: model did not produce an extractable answer",
+    "67: model did not produce an extractable answer",
+    "5: model did not produce an extractable answer",
+    "25: model did not produce an extractable answer",
+    "31: model did not produce an extractable answer",
+    "97: model did not produce an extractable answer",
+    "61: model did not produce an extractable answer",
+    "52: model did not produce an extractable answer",
+    "69: model did not produce an extractable answer"
+  ]
+}

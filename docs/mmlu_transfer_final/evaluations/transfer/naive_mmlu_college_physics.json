@@ -1,0 +1,15 @@
+{
+  "config_hash": "b6cc86fe8e50a5b3cb431b4edc01f9c476b2987e501518f4143c995d15b9ef8b",
+  "benchmark": "mmlu_college_physics",
+  "split": "transfer",
+  "seed": 2026,
+  "accuracy": 0.8571428571428571,
+  "input_tokens": 16671,
+  "output_tokens": 18378,
+  "latency_seconds": 279.3845110652037,
+  "status": "success",
+  "errors": [
+    "73: model did not produce an extractable answer",
+    "79: model did not produce an extractable answer"
+  ]
+}

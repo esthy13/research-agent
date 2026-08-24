@@ -1,0 +1,39 @@
+# Secrets and local configuration
+.env
+
+# Virtual environments
+.venv/
+project/
+
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated experiment artifacts
+data/*.jsonl
+results/
+logs/
+.hf_cache/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Local report-build scratch files
+output/
+tmp/
+docs/final_report/*.aux
+docs/final_report/*.bbl
+docs/final_report/*.blg
+docs/final_report/*.fdb_latexmk
+docs/final_report/*.fls
+docs/final_report/*.lof
+docs/final_report/*.log
+docs/final_report/*.lot
+docs/final_report/*.out
+docs/final_report/*.synctex.gz
+docs/final_report/*.toc

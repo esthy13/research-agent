@@ -1,0 +1,808 @@
+{
+  "config_hash": "22f94ef82139a4d46136a268c5c975aa1881c69a5ee56167cf6df69bff702ab5",
+  "benchmark": "pubmedqa",
+  "split": "development",
+  "seed": 2026,
+  "items": [
+    {
+      "dataset_index": 60,
+      "item_id": "60",
+      "expected_answer": "yes",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 163,
+      "item_id": "163",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 257,
+      "item_id": "257",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 487,
+      "item_id": "487",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 262,
+      "item_id": "262",
+      "expected_answer": "no",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 331,
+      "item_id": "331",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 440,
+      "item_id": "440",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 496,
+      "item_id": "496",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 52,
+      "item_id": "52",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 452,
+      "item_id": "452",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 114,
+      "item_id": "114",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 458,
+      "item_id": "458",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 307,
+      "item_id": "307",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 318,
+      "item_id": "318",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 284,
+      "item_id": "284",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 215,
+      "item_id": "215",
+      "expected_answer": "maybe",
+      "predicted_answer": "maybe",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 401,
+      "item_id": "401",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 293,
+      "item_id": "293",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 280,
+      "item_id": "280",
+      "expected_answer": "maybe",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 431,
+      "item_id": "431",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 374,
+      "item_id": "374",
+      "expected_answer": "yes",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 397,
+      "item_id": "397",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 393,
+      "item_id": "393",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 251,
+      "item_id": "251",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 384,
+      "item_id": "384",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 395,
+      "item_id": "395",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 300,
+      "item_id": "300",
+      "expected_answer": "maybe",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 225,
+      "item_id": "225",
+      "expected_answer": "yes",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 122,
+      "item_id": "122",
+      "expected_answer": "yes",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 1,
+      "item_id": "1",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 314,
+      "item_id": "314",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 41,
+      "item_id": "41",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 56,
+      "item_id": "56",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 147,
+      "item_id": "147",
+      "expected_answer": "no",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 418,
+      "item_id": "418",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 50,
+      "item_id": "50",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 230,
+      "item_id": "230",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 5,
+      "item_id": "5",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 417,
+      "item_id": "417",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 456,
+      "item_id": "456",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 350,
+      "item_id": "350",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 476,
+      "item_id": "476",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 347,
+      "item_id": "347",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 160,
+      "item_id": "160",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 107,
+      "item_id": "107",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 203,
+      "item_id": "203",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 128,
+      "item_id": "128",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 178,
+      "item_id": "178",
+      "expected_answer": "maybe",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 182,
+      "item_id": "182",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 412,
+      "item_id": "412",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 192,
+      "item_id": "192",
+      "expected_answer": "no",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 381,
+      "item_id": "381",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 495,
+      "item_id": "495",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 326,
+      "item_id": "326",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 39,
+      "item_id": "39",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 370,
+      "item_id": "370",
+      "expected_answer": "no",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 174,
+      "item_id": "174",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 45,
+      "item_id": "45",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 285,
+      "item_id": "285",
+      "expected_answer": "maybe",
+      "predicted_answer": "maybe",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 275,
+      "item_id": "275",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 149,
+      "item_id": "149",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 466,
+      "item_id": "466",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 234,
+      "item_id": "234",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 72,
+      "item_id": "72",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 330,
+      "item_id": "330",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 360,
+      "item_id": "360",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 366,
+      "item_id": "366",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 295,
+      "item_id": "295",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 158,
+      "item_id": "158",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 12,
+      "item_id": "12",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 363,
+      "item_id": "363",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 188,
+      "item_id": "188",
+      "expected_answer": "no",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 186,
+      "item_id": "186",
+      "expected_answer": "maybe",
+      "predicted_answer": "yes",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 236,
+      "item_id": "236",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 216,
+      "item_id": "216",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 46,
+      "item_id": "46",
+      "expected_answer": "maybe",
+      "predicted_answer": "maybe",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 204,
+      "item_id": "204",
+      "expected_answer": "yes",
+      "predicted_answer": "no",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 299,
+      "item_id": "299",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 283,
+      "item_id": "283",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 255,
+      "item_id": "255",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 59,
+      "item_id": "59",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 217,
+      "item_id": "217",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 259,
+      "item_id": "259",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 410,
+      "item_id": "410",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 475,
+      "item_id": "475",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 492,
+      "item_id": "492",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 488,
+      "item_id": "488",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 454,
+      "item_id": "454",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 268,
+      "item_id": "268",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 132,
+      "item_id": "132",
+      "expected_answer": "yes",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 484,
+      "item_id": "484",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 288,
+      "item_id": "288",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 245,
+      "item_id": "245",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 447,
+      "item_id": "447",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 265,
+      "item_id": "265",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 430,
+      "item_id": "430",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 294,
+      "item_id": "294",
+      "expected_answer": "yes",
+      "predicted_answer": "yes",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 489,
+      "item_id": "489",
+      "expected_answer": "no",
+      "predicted_answer": "maybe",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 392,
+      "item_id": "392",
+      "expected_answer": "maybe",
+      "predicted_answer": "maybe",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 66,
+      "item_id": "66",
+      "expected_answer": "no",
+      "predicted_answer": "no",
+      "correct": true,
+      "error": null
+    }
+  ]
+}

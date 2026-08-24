@@ -1,0 +1,35 @@
+[
+  {
+    "label": "candidate_01",
+    "search_rank": 1,
+    "experiment_id": "987d4722-b67b-44b4-aaef-8b51555d5905",
+    "config_hash": "13a568a5db2139bb3b19d7635dca762e2e23cb95a12f4b3d5abf55b0aa176151",
+    "accuracy": 0.73,
+    "total_tokens": 76109,
+    "latency_seconds": 514.7388759898022,
+    "condition": "full_memory",
+    "config_path": "top_candidate_configs/candidate_01.json"
+  },
+  {
+    "label": "candidate_02",
+    "search_rank": 2,
+    "experiment_id": "c2cf402b-418b-41f2-8ebd-c83c33585124",
+    "config_hash": "86098a1af53fbc3a89b997a91d8e5c438791bc47928d4f17499737d1f83d566c",
+    "accuracy": 0.73,
+    "total_tokens": 76109,
+    "latency_seconds": 515.1964060268365,
+    "condition": "full_memory",
+    "config_path": "top_candidate_configs/candidate_02.json"
+  },
+  {
+    "label": "candidate_03",
+    "search_rank": 3,
+    "experiment_id": "bc6d4d10-0acb-40f6-a8f8-a79227fc2757",
+    "config_hash": "adbc68f4d0a4e889b58fa2a7a8b3c409b483ff9f911e850d580aa90358c1572a",
+    "accuracy": 0.73,
+    "total_tokens": 174344,
+    "latency_seconds": 623.6262108562514,
+    "condition": "memory_without_augmentation",
+    "config_path": "top_candidate_configs/candidate_03.json"
+  }
+]

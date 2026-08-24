@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "group-c-research-agent"
+version = "0.1.0"
+description = "Memory-guided, execution-grounded multi-agent research system"
+requires-python = ">=3.10"
+dependencies = [
+    "agentscope==1.0.19.post1",
+    "datasets>=5.0.0",
+    "pydantic>=2.10,<3",
+    "python-dotenv>=1.0,<2",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

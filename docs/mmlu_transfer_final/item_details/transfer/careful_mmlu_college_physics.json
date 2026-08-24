@@ -1,0 +1,736 @@
+{
+  "config_hash": "22f94ef82139a4d46136a268c5c975aa1881c69a5ee56167cf6df69bff702ab5",
+  "benchmark": "mmlu_college_physics",
+  "split": "transfer",
+  "seed": 2026,
+  "items": [
+    {
+      "dataset_index": 15,
+      "item_id": "15",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 40,
+      "item_id": "41",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 64,
+      "item_id": "69",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 65,
+      "item_id": "70",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 82,
+      "item_id": "91",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 13,
+      "item_id": "13",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 28,
+      "item_id": "29",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 76,
+      "item_id": "83",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 79,
+      "item_id": "86",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 71,
+      "item_id": "78",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 53,
+      "item_id": "55",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 73,
+      "item_id": "80",
+      "expected_answer": "A",
+      "predicted_answer": "C",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 70,
+      "item_id": "75",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 62,
+      "item_id": "67",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 75,
+      "item_id": "82",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 56,
+      "item_id": "60",
+      "expected_answer": "D",
+      "predicted_answer": "A",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 30,
+      "item_id": "31",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 0,
+      "item_id": "0",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 10,
+      "item_id": "10",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 14,
+      "item_id": "14",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 36,
+      "item_id": "37",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 12,
+      "item_id": "12",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 57,
+      "item_id": "61",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 1,
+      "item_id": "1",
+      "expected_answer": "C",
+      "predicted_answer": "A",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 77,
+      "item_id": "84",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 89,
+      "item_id": "100",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 26,
+      "item_id": "27",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 50,
+      "item_id": "52",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 16,
+      "item_id": "17",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 22,
+      "item_id": "23",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 59,
+      "item_id": "63",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 61,
+      "item_id": "65",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 51,
+      "item_id": "53",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 24,
+      "item_id": "25",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 47,
+      "item_id": "48",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 32,
+      "item_id": "33",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 87,
+      "item_id": "98",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 4,
+      "item_id": "4",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 46,
+      "item_id": "47",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 21,
+      "item_id": "22",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 5,
+      "item_id": "5",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 35,
+      "item_id": "36",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 34,
+      "item_id": "35",
+      "expected_answer": "D",
+      "predicted_answer": null,
+      "correct": false,
+      "error": "35: model did not produce an extractable answer"
+    },
+    {
+      "dataset_index": 18,
+      "item_id": "19",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 83,
+      "item_id": "92",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 29,
+      "item_id": "30",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 9,
+      "item_id": "9",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 41,
+      "item_id": "42",
+      "expected_answer": "C",
+      "predicted_answer": "B",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 78,
+      "item_id": "85",
+      "expected_answer": "D",
+      "predicted_answer": null,
+      "correct": false,
+      "error": "85: model did not produce an extractable answer"
+    },
+    {
+      "dataset_index": 19,
+      "item_id": "20",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 67,
+      "item_id": "72",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 23,
+      "item_id": "24",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 39,
+      "item_id": "40",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 45,
+      "item_id": "46",
+      "expected_answer": "C",
+      "predicted_answer": "B",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 27,
+      "item_id": "28",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 63,
+      "item_id": "68",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 25,
+      "item_id": "26",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 31,
+      "item_id": "32",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 7,
+      "item_id": "7",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 42,
+      "item_id": "43",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 66,
+      "item_id": "71",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 48,
+      "item_id": "49",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 68,
+      "item_id": "73",
+      "expected_answer": "B",
+      "predicted_answer": null,
+      "correct": false,
+      "error": "73: model did not produce an extractable answer"
+    },
+    {
+      "dataset_index": 33,
+      "item_id": "34",
+      "expected_answer": "D",
+      "predicted_answer": "C",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 43,
+      "item_id": "44",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 90,
+      "item_id": "101",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 69,
+      "item_id": "74",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 74,
+      "item_id": "81",
+      "expected_answer": "B",
+      "predicted_answer": "A",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 8,
+      "item_id": "8",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 85,
+      "item_id": "95",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 52,
+      "item_id": "54",
+      "expected_answer": "C",
+      "predicted_answer": "B",
+      "correct": false,
+      "error": null
+    },
+    {
+      "dataset_index": 37,
+      "item_id": "38",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 38,
+      "item_id": "39",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 20,
+      "item_id": "21",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 86,
+      "item_id": "96",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 55,
+      "item_id": "57",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 84,
+      "item_id": "94",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 2,
+      "item_id": "2",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 17,
+      "item_id": "18",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 11,
+      "item_id": "11",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 60,
+      "item_id": "64",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 54,
+      "item_id": "56",
+      "expected_answer": "C",
+      "predicted_answer": "C",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 6,
+      "item_id": "6",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 88,
+      "item_id": "99",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 44,
+      "item_id": "45",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 3,
+      "item_id": "3",
+      "expected_answer": "A",
+      "predicted_answer": "A",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 72,
+      "item_id": "79",
+      "expected_answer": "C",
+      "predicted_answer": null,
+      "correct": false,
+      "error": "79: model did not produce an extractable answer"
+    },
+    {
+      "dataset_index": 81,
+      "item_id": "88",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 58,
+      "item_id": "62",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 80,
+      "item_id": "87",
+      "expected_answer": "D",
+      "predicted_answer": "D",
+      "correct": true,
+      "error": null
+    },
+    {
+      "dataset_index": 49,
+      "item_id": "50",
+      "expected_answer": "B",
+      "predicted_answer": "B",
+      "correct": true,
+      "error": null
+    }
+  ]
+}
